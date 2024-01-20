@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ayush bhatt</h1>
+![image](https://github.com/devayush204/devayush204/assets/124452247/e2d987e6-3b07-4fc2-b3c8-cc975c796639)<h1 align="center">Hi 👋, I'm Ayush bhatt</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
+
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAniketkushwaha80%2FAniketkushwaha80&psig=AOvVaw2wpHpKRfKVMXq6wuhsgA4v&ust=1705822562657000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC1yLG664MDFQAAAAAdAAAAABAP" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devayush204&label=Profile%20views&color=0e75b6&style=flat" alt="devayush204" /> </p>
 
